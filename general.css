@@ -1,0 +1,9 @@
+#loginPage {
+    background: none !important;
+}
+
+@media (max-width: 100em) {
+    #indexPage, #moviesPage, #tvRecommendedPage, #musicRecommendedPage {
+        overflow-x: hidden;
+    }
+}
